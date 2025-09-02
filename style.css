@@ -1,0 +1,37 @@
+body{
+    background-color: gray;
+}
+h1{
+    font-family: Tahoma;
+}
+header{
+    padding-left: 60px;
+}
+form{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding-top: 10%;
+    font-size: large;
+}   
+input[type="text"]{
+    font-size: 16px;
+    font-family: Arial;
+    background-color: antiquewhite;
+    border-radius: 8px;
+    width: 300px;
+    height: 30px;
+}
+button{
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: lightslategray;
+}
+p{
+    font-family: Helvetica;
+    font-size: 22px
+}
