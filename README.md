@@ -28,11 +28,4 @@ Este projeto é uma aplicação simples em **JavaScript** que auxilia alunos a c
 - JavaScript
 - HTML
 - CSS
-
-- ## Estrutura do Projeto:
-- MediaPonderadaNotas/
-│
-├─ index.html     
-├─ script.js
-├─ style.css         
-└─ README.md       
+   
