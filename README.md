@@ -6,12 +6,7 @@ Este projeto é uma aplicação simples em **JavaScript** que auxilia alunos a c
 
 - Receber três notas do usuário.
 - Receber os pesos correspondentes a cada nota.
-- Calcular a **média ponderada** usando a fórmula:
-
-\[
-\text{Média Ponderada} = \frac{(peso1 \times nota1) + (peso2 \times nota2) + (peso3 \times nota3)}{peso1 + peso2 + peso3}
-\]
-
+- Calcular a **média ponderada** 
 - Classificar a média final de acordo com a tabela:
 
 | Média | Classificação |
